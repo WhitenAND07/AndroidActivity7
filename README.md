@@ -1,2 +1,2 @@
-# AndroidActivity7
-Activity 7 - Select Controls
+# Widgets
+Practicar el manejo de widgets básicos
